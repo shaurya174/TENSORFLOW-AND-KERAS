@@ -30,3 +30,30 @@ The goal is to estimate the price of newly mined gemstones using machine learnin
 
 **Shaurya Mittal**
 
+
+# 2. 🏠	 House Price Prediction with Deep Learning
+
+## 📌 Project Overview
+
+This project uses deep learning (Keras + TensorFlow) to predict house prices based on various features such as square footage, number of bedrooms, location coordinates, and more. The dataset is taken from **King County, USA**, which includes homes sold between May 2014 and May 2015.
+---
+## 🚀 Workflow Summary
+
+- **Data Exploration:** Used pandas and seaborn to understand the data.
+- **Preprocessing:** Applied MinMaxScaler after splitting the data.
+- **Modeling:** Built a 4-layer neural network using TensorFlow's Keras API.
+- **Training:** Trained the model over 400 epochs.
+- **Evaluation:** Evaluated predictions using MAE, MSE, RMSE.
+- **Visualization:** Compared predicted vs actual prices.
+---
+## 📦 Tech Stack
+
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- scikit-learn
+- TensorFlow / Keras
+---
+## 👤 Author
+
+**Shaurya Mittal**
