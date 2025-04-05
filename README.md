@@ -3,7 +3,7 @@ This Repository contains project that i have build with keras and tensorflow
 
 # 1. 💎 Gemstone Price Prediction
 
-This is the first project in my machine learning/deep learning portfolio. It focuses on predicting the price of rare gemstones based on physical measurements using a neural network built with Keras.
+This is the first project in my deep learning portfolio. It focuses on predicting the price of rare gemstones based on physical measurements using a neural network built with Keras.
 
 ## 📌 Project Overview
 
