@@ -57,3 +57,38 @@ This project uses deep learning (Keras + TensorFlow) to predict house prices bas
 ## 👤 Author
 
 **Shaurya Mittal**
+---
+# 3. 🧬 Cancer Classification with Deep Learning
+
+## 📌 Project Overview
+
+This project uses deep learning (Keras + TensorFlow) to classify tumors as **benign** or **malignant** based on various cell nucleus features. The dataset is the **Breast Cancer Wisconsin Diagnostic Data Set**, a well-known benchmark for binary classification in healthcare.
+
+---
+
+## 🚀 Workflow Summary
+
+- **Data Exploration:** Explored distributions, correlations, and target class balance using pandas and seaborn.
+- **Preprocessing:** Applied MinMaxScaler after splitting the data into train and test sets.
+- **Modeling:** Built and compared three neural networks — baseline, EarlyStopping, and Dropout-regularized — using TensorFlow's Keras API.
+- **Training:** Trained the models and monitored training/validation loss to detect overfitting.
+- **Evaluation:** Evaluated performance using a classification report, confusion matrix, and accuracy metrics.
+- **Visualization:** Plotted loss curves to visually compare model behaviors and learning trends.
+
+---
+
+## 📦 Tech Stack
+
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- scikit-learn
+- TensorFlow / Keras
+
+---
+
+## 👤 Author
+
+**Shaurya Mittal**
+
+---
